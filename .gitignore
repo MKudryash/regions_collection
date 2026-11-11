@@ -1,0 +1,5 @@
+# тяжёлые исходные файлы: скачиваются ноутбуком 01 (см. README, раздел «Воспроизведение»)
+data/raw/_source/
+__pycache__/
+.ipynb_checkpoints/
+.venv/

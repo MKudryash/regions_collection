@@ -1,0 +1,19 @@
+# Python 3.12.10 (проверено на Windows 11; на Linux/macOS — те же версии)
+numpy==2.5.4
+pandas==3.1.1
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+geopandas==1.2.0
+shapely==2.2.0
+pyogrio==0.13.0
+pyproj==3.8.0
+libpysal==4.15.1
+esda==2.10.0
+spopt==0.8.0
+mapclassify==2.11.0
+PyYAML==6.0.3
+# запуск ноутбуков
+jupyterlab==4.6.6
+nbconvert==7.17.2
+jupytext==1.19.6
